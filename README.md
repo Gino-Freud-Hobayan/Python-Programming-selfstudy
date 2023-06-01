@@ -6,6 +6,9 @@ From Alex the Analyst Youtube Channel
 https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF
 
 
+**Benefits of Learning Python**
+
+
 **ChatGPT:**
 As a Data Analyst, learning Python is a valuable skill that can greatly enhance your ability to manipulate and analyze data effectively. To get started, here are some key topics you should focus on:
 
