@@ -10,6 +10,9 @@ https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF
 https://github.com/AlexTheAnalyst/PandasYouTubeSeries/tree/main
 
 
+**Portfolio projects (Github code):**
+https://github.com/AlexTheAnalyst/PortfolioProjects/tree/main
+
 
 
 **Benefits of Learning Python**
