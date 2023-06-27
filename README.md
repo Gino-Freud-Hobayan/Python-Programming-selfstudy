@@ -14,6 +14,9 @@ https://github.com/AlexTheAnalyst/PandasYouTubeSeries/tree/main
 https://github.com/AlexTheAnalyst/PortfolioProjects/tree/main
 
 
+**Data Science and Python (Github code):**
+https://www.youtube.com/playlist?list=PLFCB5Dp81iNVmuoGIqcT5oF4K-7kTI5vp
+
 
 **Benefits of Learning Python**
 
